@@ -1,0 +1,22 @@
+﻿<Strings>
+ <MSG_KMS_ERR_NOINSTALL>Error: The Software Protection Platform service is not installed.</MSG_KMS_ERR_NOINSTALL> 
+ <MSG_KMS_ERR_NORUN>Error: The Software Protection Platform service is not running. Current state:</MSG_KMS_ERR_NORUN>
+ <MSG_EXIT>Press ENTER to close...</MSG_EXIT>
+ <MSG_ERRCODE>An error occurred:</MSG_ERRCODE>
+ <MSG_UNSUPPOS>Unsupported operating system.</MSG_UNSUPPOS>
+ <MSG_INSTALLLICENSES>Installing Microsoft Office 2010 KMS host licenses:</MSG_INSTALLLICENSES>
+ <MSG_INSTALLLIC>Installing license:</MSG_INSTALLLIC>
+ <MSG_INSTALLSUCCESS>Microsoft Office 2010 KMS host licenses installed successfully.</MSG_INSTALLSUCCESS>
+ <MSG_NODIR>Unable to locate licenses.</MSG_NODIR>
+ <MSG_WINRET>Windows edition detected is not a VL edition. Microsoft Office 2010 KMS host requires a Windows VL edition.</MSG_WINRET>
+ <MSG_ENTERKEYPROMPT>Would you like to enter a Microsoft Office 2010 KMS host product key and proceed with Internet activation now?</MSG_ENTERKEYPROMPT>
+ <MSG_ENTERKEY>Enter the Microsoft Office 2010 KMS host product key below. You must include dashes.</MSG_ENTERKEY>
+ <MSG_UNRECOGKEY>Unrecognized product key passed. You must include dashes.</MSG_UNRECOGKEY>
+ <MSG_SL_E_INVALID_PRODUCT_KEY>The Software Licensing Service reported that the product key is invalid.</MSG_SL_E_INVALID_PRODUCT_KEY>
+ <MSG_KEYSUCCESS>Microsoft Office 2010 KMS host product key has been successfully installed and activated.</MSG_KEYSUCCESS>
+ <MSG_SLMGR>For KMS host configuration options, see Slmgr.vbs.</MSG_SLMGR>
+ <MSG_SLUI>To display the error text, run the following:</MSG_SLUI>
+ <MSG_CSCRIPT_NONE>Unable to perform operation. The cscript engine is required. Command Line:</MSG_CSCRIPT_NONE>
+ <MSG_NOOFFICELIC>The product key entered is not a valid Microsoft Office 2010 KMS host product key:</MSG_NOOFFICELIC>
+ <MSG_RERUN>Re-run and enter a valid Microsoft Office 2010 KMS host product key.</MSG_RERUN>
+</Strings>
