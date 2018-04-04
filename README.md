@@ -1,4 +1,4 @@
-# Office2010KMSW16
+# Office 2010 KMS Host License Pack patched for Windows Server 2016
 By default, the old Office 2010 KMS Host License Pack is not compliant with Windows Server 2016.
 Here is the Office 2010 KMS Host License Pack patched for Windows Server 2016 :)
 
